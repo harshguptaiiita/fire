@@ -5,14 +5,14 @@ package com.example.harshgupta.fire;
  */
 
 public class fire {
-    String name;
-    String phone;
+     String name;
+     String phone;
 
-    public String getName() {
+    public  String getName() {
         return name;
     }
 
-    public String getPhone() {
+    public  String getPhone() {
         return phone;
     }
 
